@@ -1,6 +1,11 @@
 # Vamonos
 An app to help optimize your time and travel, by finding you the least occupied places in a variety of industries.
 
+- IOS Application dedicated to helping students find empty spaces to work on campus
+- Data is pushed to the cloud from the Telus IoT development board and then pulled from the ios application
+- Data is stored in a NoSQL database by Azure (cosmosDB)
+- Currently, map view is shown but due to issues, pulling from the database still doesnt work
+
 ## Inspiration
 
 **Our inspiration was waiting in long lines and walking around aimlessly to find space.**
